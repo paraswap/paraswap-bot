@@ -112,6 +112,6 @@ async function multiSwap(_amount, _tokens, execute) {
     if(execute) ps.swap(transaction);
 }
 
-multiSwap(0.05, ["ETH", "DAI", "USDC", "ETH"], true);
+//multiSwap(0.05, ["ETH", "DAI", "USDC", "ETH"]);
 
-swap(0.05, "ETH", "DAI", true);
+//swap(0.05, "ETH", "DAI");
