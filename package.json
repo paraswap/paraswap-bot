@@ -1,0 +1,15 @@
+{
+  "name": "paraswap-bot",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "dotenv": "^8.2.0",
+    "paraswap": "^2.0.9",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.9"
+  }
+}
